@@ -1,0 +1,25 @@
+
+body {
+	background: #000000;
+	color: powderblue;
+	text-align: right justified;
+	font-family: Verdana, "Time New Roman";
+     }
+
+h1   {
+	font-size: 200%;
+     }
+
+img  {
+	float: left;
+	margin: 10px 10px 10px 10px;
+     }
+
+map {
+	display: inline;
+    }
+
+a   {
+	color: turquoise;
+	font-size: 150%;
+    }
